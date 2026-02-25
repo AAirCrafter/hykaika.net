@@ -1,0 +1,21 @@
+name: hyklobby
+version: '1.7'
+main: air.hyklobby2.Hyklobby2
+api-version: '1.21'
+prefix: air
+load: STARTUP
+authors: [ AAirCrafter ]
+description: hykaika.net lobby
+website: https://aircrafter.cloud
+commands:
+  spawn:
+    description: Teleportiert dich zum Spawn
+    usage: /spawn
+  vip:
+    description: Öffnet das Einstellunbgs-Menu
+    usage: /vip <player> <time>
+    permission: op
+
+permissions:
+  hyklobby.spawn:
+    default: true
