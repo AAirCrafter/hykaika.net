@@ -1,2 +1,2 @@
-Dies ist ein lobby plugin für hykaika.net 
+Dies ist ein lobby plugin für hykaika.net/
 Made by AAircrafter.
